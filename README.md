@@ -6,7 +6,10 @@
 - 🤖 LLM integration: multi-provider fallback, vision extraction, structured JSON output, guardrails
 - ⚙️ Node.js APIs, JWT auth, CI/CD with GitHub Actions
 
-### Featured project
+### Featured projects
+
+**[Interview Coach](https://github.com/Konicamaheshwarii/ai-interview-coach)** · [▶ live demo](https://konicamaheshwarii.github.io/ai-interview-coach/): practice interviews with AI. Questions are generated from any job description and answers are scored against a rubric, with streamed model answers and voice input. Gemini, Groq or offline demo behind one provider interface.
+`Angular 20` `Signals` `Zoneless` `SSE streaming` `Web Speech API` `GitHub Actions → Pages`
 
 **[job-autoapply](https://github.com/Konicamaheshwarii/job-autoapply)**: a WhatsApp bot that reads job posts (rules for text, a vision LLM for posters), scores them against my CV ATS-style, tailors a truthful CV and applies by Gmail or WhatsApp. It runs unattended with self-healing watchdogs.
 `Node.js` `LLM (Groq / Gemini)` `Puppeteer` `whatsapp-web.js`
