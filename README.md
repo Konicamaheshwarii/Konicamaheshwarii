@@ -18,6 +18,7 @@ Every app runs in the browser with a free **demo mode** (no key needed), or uses
 | **[ReviewBot](https://github.com/Konicamaheshwarii/pr-reviewer)** · [demo](https://konicamaheshwarii.github.io/pr-reviewer/) | Line-by-line review of diffs and public GitHub PRs | Diff parser, Myers diff, 20-rule analyzer |
 | **[FormGenie](https://github.com/Konicamaheshwarii/formgenie)** · [demo](https://konicamaheshwarii.github.io/formgenie/) | Describe a form in plain English and get a working Angular form | Dynamic Reactive Forms, JSON schema, code export |
 | **[Receipto](https://github.com/Konicamaheshwarii/receipt-scanner)** · [demo](https://konicamaheshwarii.github.io/receipt-scanner/) | Snap a receipt, AI vision extracts it, spending dashboard | Vision LLM, validation, hand-written SVG charts |
+| **[Wayfarer](https://github.com/Konicamaheshwarii/trip-planner-ai)** · [demo](https://konicamaheshwarii.github.io/trip-planner-ai/) | AI day-by-day travel itineraries on a map | Leaflet/OSM, drag-to-reorder time re-flow, weather, share links |
 | **[Minutes](https://github.com/Konicamaheshwarii/meeting-notes-ai)** · [demo](https://konicamaheshwarii.github.io/meeting-notes-ai/) | Meetings to summaries, decisions and action items | Whisper, map-reduce summarization, .ics export |
 
 **[job-autoapply](https://github.com/Konicamaheshwarii/job-autoapply)**: a WhatsApp bot that reads job posts (rules for text, a vision LLM for posters), scores them against my CV ATS-style, tailors a truthful CV and applies by Gmail or WhatsApp. It runs unattended with self-healing watchdogs.
