@@ -8,11 +8,17 @@
 
 ### Featured projects
 
-**[Interview Coach](https://github.com/Konicamaheshwarii/ai-interview-coach)** · [▶ live demo](https://konicamaheshwarii.github.io/ai-interview-coach/): practice interviews with AI. Questions are generated from any job description and answers are scored against a rubric, with streamed model answers and voice input. Gemini, Groq or offline demo behind one provider interface.
-`Angular 20` `Signals` `Zoneless` `SSE streaming` `Web Speech API` `GitHub Actions → Pages`
+Every app runs in the browser with a free **demo mode** (no key needed), or uses your own Gemini/Groq key.
 
-**[DocChat](https://github.com/Konicamaheshwarii/docchat)** · [▶ live demo](https://konicamaheshwarii.github.io/docchat/): chat with your PDFs, entirely in the browser. Retrieval-augmented generation with BM25, Gemini embeddings and hybrid ranking, plus streamed answers with clickable page citations.
-`Angular 20` `RAG` `BM25` `Embeddings` `pdf.js` `IndexedDB`
+| Project | What it does | Highlights |
+|---|---|---|
+| **[VoiceDesk](https://github.com/Konicamaheshwarii/voicedesk)** · [demo](https://konicamaheshwarii.github.io/voicedesk/) | AI voice receptionist: books appointments for any business and runs first-round HR screening | Tool-calling agent, slot engine, Web Speech API |
+| **[DocChat](https://github.com/Konicamaheshwarii/docchat)** · [demo](https://konicamaheshwarii.github.io/docchat/) | Chat with your PDFs, with clickable page citations | RAG, BM25 + embeddings hybrid search, pdf.js, IndexedDB |
+| **[Interview Coach](https://github.com/Konicamaheshwarii/ai-interview-coach)** · [demo](https://konicamaheshwarii.github.io/ai-interview-coach/) | Interview practice from any job description, rubric scoring, streamed model answers | Signals, zoneless, SSE streaming, voice input |
+| **[ReviewBot](https://github.com/Konicamaheshwarii/pr-reviewer)** · [demo](https://konicamaheshwarii.github.io/pr-reviewer/) | Line-by-line review of diffs and public GitHub PRs | Diff parser, Myers diff, 20-rule analyzer |
+| **[FormGenie](https://github.com/Konicamaheshwarii/formgenie)** · [demo](https://konicamaheshwarii.github.io/formgenie/) | Describe a form in plain English and get a working Angular form | Dynamic Reactive Forms, JSON schema, code export |
+| **[Receipto](https://github.com/Konicamaheshwarii/receipt-scanner)** · [demo](https://konicamaheshwarii.github.io/receipt-scanner/) | Snap a receipt, AI vision extracts it, spending dashboard | Vision LLM, validation, hand-written SVG charts |
+| **[Minutes](https://github.com/Konicamaheshwarii/meeting-notes-ai)** · [demo](https://konicamaheshwarii.github.io/meeting-notes-ai/) | Meetings to summaries, decisions and action items | Whisper, map-reduce summarization, .ics export |
 
 **[job-autoapply](https://github.com/Konicamaheshwarii/job-autoapply)**: a WhatsApp bot that reads job posts (rules for text, a vision LLM for posters), scores them against my CV ATS-style, tailors a truthful CV and applies by Gmail or WhatsApp. It runs unattended with self-healing watchdogs.
 `Node.js` `LLM (Groq / Gemini)` `Puppeteer` `whatsapp-web.js`
