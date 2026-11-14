@@ -12,7 +12,7 @@ Every app runs in the browser with a free **demo mode** (no key needed), or uses
 
 | Project | What it does | Highlights |
 |---|---|---|
-| **[Shagun](https://github.com/Konicamaheshwarii/shagun-wishlist)** · [demo](https://konicamaheshwarii.github.io/shagun-wishlist/) | Indian wedding e-invites (kankotri) and UPI gifting towards the couple's goals, with RSVPs and a live blessing wall | Supabase + Row Level Security, realtime, PWA, PNG/PDF invite export, 4-tier free AI fallback |
+| **[Gathbandhan](https://github.com/Konicamaheshwarii/gathbandhan)** · [demo](https://konicamaheshwarii.github.io/gathbandhan/) | Indian wedding e-invites (kankotri) and UPI gifting towards the couple's goals, with RSVPs and a live blessing wall | Supabase + Row Level Security, realtime, PWA, PNG/PDF invite export, 4-tier free AI fallback |
 | **[Saarthi](https://github.com/Konicamaheshwarii/saarthi-drivers)** · [demo](https://konicamaheshwarii.github.io/saarthi-drivers/) | Book a verified driver by the hour for your own car, with driver sign-up and admin review | Natural-language booking, fare engine, Leaflet live tracking, Supabase realtime, PWA, Hindi i18n |
 | **[VoiceDesk](https://github.com/Konicamaheshwarii/voicedesk)** · [demo](https://konicamaheshwarii.github.io/voicedesk/) | AI voice receptionist: books appointments for any business and runs first-round HR screening | Tool-calling agent, slot engine, Web Speech API |
 | **[DocChat](https://github.com/Konicamaheshwarii/docchat)** · [demo](https://konicamaheshwarii.github.io/docchat/) | Chat with your PDFs, with clickable page citations | RAG, BM25 + embeddings hybrid search, pdf.js, IndexedDB |
